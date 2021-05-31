@@ -1,6 +1,6 @@
 # bit703-a2
 
-## Instruccions to install wp site:
+## Instructions to install wp site:
 - Clone this repo
 - create db for worpress on phpmyadmin, name it mike_watts
     - the db is configured to have 'DB_USER' and 'DB_PASSWORD' as 'admin' and the 'DB_HOST' as 'localhost'
