@@ -7,6 +7,6 @@
 - Add vhost for {folder}/wordpress
 - Edit host to add entry for bit703.mikewatts 
 - reset your apache (sudo apachectl restart)
-- navigate to http://bit703.mikewatts
+- navigate to http://bit703.mikewatts/wp-admin/
 - login as admin/admin or test@test.com/admin
 
